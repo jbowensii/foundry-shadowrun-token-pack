@@ -31,7 +31,7 @@ The original pack readme is preserved in [CREDITS.txt](CREDITS.txt).
 
 The module packaging (structure, metadata, build tooling) is released under the [MIT License](LICENSE).
 
-**The token artwork is explicitly NOT covered by the MIT license.** It derives from Harebrained Schemes' Shadowrun video games and remains the property of its respective rights holders; the token renders remain the work of their original creators credited above. This repository is private and the pack is intended for personal tabletop use only. **Do not redistribute publicly.**
+**The token artwork is explicitly NOT covered by the MIT license.** It derives from Harebrained Schemes' Shadowrun video games and remains the property of its respective rights holders; the token renders remain the work of their original creators credited above. This pack is shared non-commercially for personal tabletop use, with full attribution to the original creators. If any rights holder objects to this repository, it will be taken down on request.
 
 ## Building from source
 
