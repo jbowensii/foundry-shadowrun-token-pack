@@ -1,0 +1,29 @@
+{
+  "_id": "W4DpXsffeFc0C6cY",
+  "_key": "!actors!W4DpXsffeFc0C6cY",
+  "name": "Lofwyr",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Lofwyr.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "YoT3muFLJet8jIx4",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Lofwyr",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Lofwyr.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

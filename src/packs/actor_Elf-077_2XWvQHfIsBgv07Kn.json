@@ -1,0 +1,29 @@
+{
+  "_id": "2XWvQHfIsBgv07Kn",
+  "_key": "!actors!2XWvQHfIsBgv07Kn",
+  "name": "Elf 077",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Elf077.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "akAeUkNhT3KyFhox",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Elf 077",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Elf077.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

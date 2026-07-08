@@ -1,0 +1,29 @@
+{
+  "_id": "lhMgZnhfnQn2bVLO",
+  "_key": "!actors!lhMgZnhfnQn2bVLO",
+  "name": "Civilian 61",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Civilian61.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "axnz74wZcr0hOhIh",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Civilian 61",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Civilian61.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

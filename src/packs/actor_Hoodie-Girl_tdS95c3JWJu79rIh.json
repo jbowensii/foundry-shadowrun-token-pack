@@ -1,0 +1,29 @@
+{
+  "_id": "tdS95c3JWJu79rIh",
+  "_key": "!actors!tdS95c3JWJu79rIh",
+  "name": "Hoodie Girl",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Hoodie-Girl.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "vwblKQGPlSIZgWuh",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Hoodie Girl",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Hoodie-Girl.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

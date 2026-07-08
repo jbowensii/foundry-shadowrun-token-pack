@@ -1,0 +1,29 @@
+{
+  "_id": "6triGkySJauv7BE2",
+  "_key": "!actors!6triGkySJauv7BE2",
+  "name": "Civilian 38",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Civilian38.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "axnz74wZcr0hOhIh",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Civilian 38",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Civilian38.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

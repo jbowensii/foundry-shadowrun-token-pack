@@ -1,0 +1,29 @@
+{
+  "_id": "GXnII287S1bcn9yf",
+  "_key": "!actors!GXnII287S1bcn9yf",
+  "name": "Civilian 52",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Civilian52.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "axnz74wZcr0hOhIh",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Civilian 52",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Civilian52.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

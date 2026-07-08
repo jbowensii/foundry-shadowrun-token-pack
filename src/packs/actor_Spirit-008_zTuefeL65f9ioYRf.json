@@ -1,0 +1,29 @@
+{
+  "_id": "zTuefeL65f9ioYRf",
+  "_key": "!actors!zTuefeL65f9ioYRf",
+  "name": "Spirit 008",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Spirit008.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "y9Gks4sb0rosJ51N",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Spirit 008",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Spirit008.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "VzvMFogUyywGHl6A",
+  "_key": "!actors!VzvMFogUyywGHl6A",
+  "name": "Security 36",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security36.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 36",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security36.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "21di57keEq10k4g1",
+  "_key": "!actors!21di57keEq10k4g1",
+  "name": "Civilian 37",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Civilian37.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "axnz74wZcr0hOhIh",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Civilian 37",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Civilian37.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

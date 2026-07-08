@@ -1,0 +1,29 @@
+{
+  "_id": "AfMVnfB3AV4fIvrg",
+  "_key": "!actors!AfMVnfB3AV4fIvrg",
+  "name": "Security 53",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security53.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 53",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security53.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "sW78GlKT3gMm7aEU",
+  "_key": "!actors!sW78GlKT3gMm7aEU",
+  "name": "Professional 7",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Professional7.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "BfhkgH1WevWfTDMA",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Professional 7",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Professional7.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

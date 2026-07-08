@@ -1,0 +1,29 @@
+{
+  "_id": "dvYD3f2f9buNnRTr",
+  "_key": "!actors!dvYD3f2f9buNnRTr",
+  "name": "Troll 030",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Troll030.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "YgNI6Mvq04Pwz8cY",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Troll 030",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Troll030.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

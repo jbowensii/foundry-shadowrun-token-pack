@@ -1,0 +1,29 @@
+{
+  "_id": "LiYNVkfId3EUo7g5",
+  "_key": "!actors!LiYNVkfId3EUo7g5",
+  "name": "Security 14",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security14.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 14",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security14.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

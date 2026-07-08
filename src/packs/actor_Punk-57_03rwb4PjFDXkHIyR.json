@@ -1,0 +1,29 @@
+{
+  "_id": "03rwb4PjFDXkHIyR",
+  "_key": "!actors!03rwb4PjFDXkHIyR",
+  "name": "Punk 57",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Punk57.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "CagRRWRByOc2k8ym",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Punk 57",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Punk57.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

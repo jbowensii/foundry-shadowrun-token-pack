@@ -1,0 +1,29 @@
+{
+  "_id": "rei2daXVjf8BLHZz",
+  "_key": "!actors!rei2daXVjf8BLHZz",
+  "name": "Security 55",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security55.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 55",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security55.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

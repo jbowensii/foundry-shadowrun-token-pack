@@ -1,0 +1,29 @@
+{
+  "_id": "E3ChIKJS8fCdfTij",
+  "_key": "!actors!E3ChIKJS8fCdfTij",
+  "name": "Ork 062",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Ork062.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "PNOIfDRZSxHTNjWv",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Ork 062",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Ork062.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

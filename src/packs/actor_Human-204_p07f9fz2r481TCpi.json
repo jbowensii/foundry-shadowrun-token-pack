@@ -1,0 +1,29 @@
+{
+  "_id": "p07f9fz2r481TCpi",
+  "_key": "!actors!p07f9fz2r481TCpi",
+  "name": "Human 204",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Human204.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "UyLlDU57IeeNmY5o",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Human 204",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Human204.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

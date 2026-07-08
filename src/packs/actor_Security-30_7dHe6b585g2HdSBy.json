@@ -1,0 +1,29 @@
+{
+  "_id": "7dHe6b585g2HdSBy",
+  "_key": "!actors!7dHe6b585g2HdSBy",
+  "name": "Security 30",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security30.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 30",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security30.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

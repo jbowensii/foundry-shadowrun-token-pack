@@ -1,0 +1,29 @@
+{
+  "_id": "I6Ggd9d069aeYoXX",
+  "_key": "!actors!I6Ggd9d069aeYoXX",
+  "name": "Security 88",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security88.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 88",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security88.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

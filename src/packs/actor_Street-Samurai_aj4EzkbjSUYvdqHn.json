@@ -1,0 +1,29 @@
+{
+  "_id": "aj4EzkbjSUYvdqHn",
+  "_key": "!actors!aj4EzkbjSUYvdqHn",
+  "name": "Street Samurai",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Street-Samurai.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "vwblKQGPlSIZgWuh",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Street Samurai",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Street-Samurai.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

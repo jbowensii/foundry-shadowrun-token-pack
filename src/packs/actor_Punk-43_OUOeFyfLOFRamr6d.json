@@ -1,0 +1,29 @@
+{
+  "_id": "OUOeFyfLOFRamr6d",
+  "_key": "!actors!OUOeFyfLOFRamr6d",
+  "name": "Punk 43",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Punk43.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "CagRRWRByOc2k8ym",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Punk 43",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Punk43.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

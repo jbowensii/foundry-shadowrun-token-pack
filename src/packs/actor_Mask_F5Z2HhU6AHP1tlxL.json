@@ -1,0 +1,29 @@
+{
+  "_id": "F5Z2HhU6AHP1tlxL",
+  "_key": "!actors!F5Z2HhU6AHP1tlxL",
+  "name": "Mask",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Mask.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "YoT3muFLJet8jIx4",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mask",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Mask.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

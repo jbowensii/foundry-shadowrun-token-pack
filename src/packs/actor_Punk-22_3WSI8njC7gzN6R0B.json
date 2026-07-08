@@ -1,0 +1,29 @@
+{
+  "_id": "3WSI8njC7gzN6R0B",
+  "_key": "!actors!3WSI8njC7gzN6R0B",
+  "name": "Punk 22",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Punk22.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "CagRRWRByOc2k8ym",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Punk 22",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Punk22.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

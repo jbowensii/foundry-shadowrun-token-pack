@@ -1,0 +1,29 @@
+{
+  "_id": "Gbhs8V8KNK2hqEJW",
+  "_key": "!actors!Gbhs8V8KNK2hqEJW",
+  "name": "Punk 24",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Punk24.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "CagRRWRByOc2k8ym",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Punk 24",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Punk24.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

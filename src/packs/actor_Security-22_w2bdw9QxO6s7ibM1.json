@@ -1,0 +1,29 @@
+{
+  "_id": "w2bdw9QxO6s7ibM1",
+  "_key": "!actors!w2bdw9QxO6s7ibM1",
+  "name": "Security 22",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security22.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 22",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security22.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

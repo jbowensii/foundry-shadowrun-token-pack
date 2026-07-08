@@ -1,0 +1,29 @@
+{
+  "_id": "XtzUBCFEuc9JlDNt",
+  "_key": "!actors!XtzUBCFEuc9JlDNt",
+  "name": "Human 031",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Human031.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "UyLlDU57IeeNmY5o",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Human 031",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Human031.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

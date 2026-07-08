@@ -1,0 +1,29 @@
+{
+  "_id": "50flMsGRykHdZRbQ",
+  "_key": "!actors!50flMsGRykHdZRbQ",
+  "name": "Security 64",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Security64.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "cxaKQ00UI7yO5Nud",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Security 64",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Security64.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

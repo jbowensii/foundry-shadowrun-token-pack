@@ -1,0 +1,29 @@
+{
+  "_id": "jFzzOxkKz17F1eaq",
+  "_key": "!actors!jFzzOxkKz17F1eaq",
+  "name": "Mage 1",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Mage1.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "8k35V4w7J7M7xbCc",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Mage 1",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Mage1.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "NP52wdM5AOrHb6uU",
+  "_key": "!actors!NP52wdM5AOrHb6uU",
+  "name": "Human 140",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Human140.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "UyLlDU57IeeNmY5o",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Human 140",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Human140.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

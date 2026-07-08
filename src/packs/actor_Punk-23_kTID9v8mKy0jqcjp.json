@@ -1,0 +1,29 @@
+{
+  "_id": "kTID9v8mKy0jqcjp",
+  "_key": "!actors!kTID9v8mKy0jqcjp",
+  "name": "Punk 23",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Punk23.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "CagRRWRByOc2k8ym",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Punk 23",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Punk23.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

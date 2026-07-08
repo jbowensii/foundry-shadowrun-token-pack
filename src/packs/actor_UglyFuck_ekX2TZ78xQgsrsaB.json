@@ -1,0 +1,29 @@
+{
+  "_id": "ekX2TZ78xQgsrsaB",
+  "_key": "!actors!ekX2TZ78xQgsrsaB",
+  "name": "UglyFuck",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/UglyFuck.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "YoT3muFLJet8jIx4",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "UglyFuck",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/UglyFuck.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

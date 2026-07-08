@@ -1,0 +1,29 @@
+{
+  "_id": "BmTC4SEZWppXzcbu",
+  "_key": "!actors!BmTC4SEZWppXzcbu",
+  "name": "Dwarf 004",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Dwarf004.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "kBEwOx0WKKb7ky3H",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Dwarf 004",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Dwarf004.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "go21rtSQR4pg7Gqa",
+  "_key": "!actors!go21rtSQR4pg7Gqa",
+  "name": "Drone 024",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/runners-metatypes/Drone024.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "xwP5foV28YisVha5",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Drone 024",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/runners-metatypes/Drone024.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

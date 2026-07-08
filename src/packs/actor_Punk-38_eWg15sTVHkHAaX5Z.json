@@ -1,0 +1,29 @@
+{
+  "_id": "eWg15sTVHkHAaX5Z",
+  "_key": "!actors!eWg15sTVHkHAaX5Z",
+  "name": "Punk 38",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Punk38.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "CagRRWRByOc2k8ym",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Punk 38",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Punk38.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

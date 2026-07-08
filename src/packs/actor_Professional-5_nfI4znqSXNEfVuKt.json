@@ -1,0 +1,29 @@
+{
+  "_id": "nfI4znqSXNEfVuKt",
+  "_key": "!actors!nfI4znqSXNEfVuKt",
+  "name": "Professional 5",
+  "type": "NPC",
+  "img": "modules/shadowrun-token-pack/tokens/mooks/Professional5.png",
+  "system": {},
+  "items": [],
+  "effects": [],
+  "folder": "BfhkgH1WevWfTDMA",
+  "sort": 0,
+  "flags": {},
+  "prototypeToken": {
+    "name": "Professional 5",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "texture": {
+      "src": "modules/shadowrun-token-pack/tokens/mooks/Professional5.png",
+      "scaleX": 1,
+      "scaleY": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}
